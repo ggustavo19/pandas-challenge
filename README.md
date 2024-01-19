@@ -1,4 +1,5 @@
-# Using Pandas and Jupyter Notebook, create a report that includes the following data
+# pandas-challenge
+Using Pandas and Jupyter Notebook, create a report that includes the following data
 -District Summary
 -School Summary
 **Sort**
